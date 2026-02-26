@@ -7,7 +7,7 @@ import React from 'react'
 
 const Section1 = () => {
   return (
-    <div className='h-full w-86 flex flex-col items-center justify-between '>
+    <div className='h-screen w-86 flex flex-col items-center justify-between '>
 
       {/* works */}
       <div className='bg-[#101010] overflow-hidden mb-3 sm:mb-0 relative border border-[#141414] w-full h-[231px] rounded-lg'>
