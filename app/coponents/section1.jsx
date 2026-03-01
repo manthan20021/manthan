@@ -9,7 +9,7 @@ const Section1 = () => {
   return (
     <div className='h-full w-86 flex flex-col items-center justify-between '>
 
-      {/* works */}
+      {/* works */} 
       <div className='bg-[#101010] overflow-hidden mb-3 sm:mb-0 relative border border-[#141414] w-full h-57.75 rounded-lg'>
 
         <div className="absolute  left-0 top-0 bottom-0 w-full  bg-gradient-to-t from-[#101010] via-[#101010]/30  to-transparent z-10 pointer-events-none"></div>

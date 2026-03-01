@@ -57,7 +57,7 @@ const Section2 = () => {
 
         <div className='sm:w-[423px] sm:h-[101px] w-full h-full  flex items-center justify-between'>
           <Image
-            src="/project.png"
+            src="/my2.png"
             alt='profil img'
             width={101}
             height={101}
