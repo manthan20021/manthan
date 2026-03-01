@@ -14,7 +14,7 @@ const Section1 = () => {
 
         <div className="absolute  left-0 top-0 bottom-0 w-full  bg-gradient-to-t from-[#101010] via-[#101010]/30  to-transparent z-10 pointer-events-none"></div>
         {/* heding section */}
-        <div className='w-full flex flex-col items-center justify-center mt-8'>
+        <div className='w-full flex flex-col items-center justify-center pt-3 '>
           <h1 className='w-full h-auto flex items-center justify-center'>
             <FolderKanban color="#773dff" />
             <span className='font-thin ml-1 text-sm text-gray-400'>projects</span>
@@ -25,7 +25,7 @@ const Section1 = () => {
         </div>
 
         {/* project img section */}
-        <div className='w-full h-20 relative'>
+        <div className='w-full h-20 top-8 relative'>
           
           <div className='w-full h-0.75 px-2 mt-8 flex items-center justify-between '>
           <Image
@@ -51,7 +51,7 @@ const Section1 = () => {
           />
         </div>
         <Link href="/Projects">
-        <button className='h-10 cursor-pointer w-50 z-10 rounded-md bg-[#773dff] text-white absolute top-15 left-17.5 '>View Works</button>
+        <button className='h-10 cursor-pointer w-50 z-10 rounded-md bg-[#773dff] text-white absolute top-10  left-17.5 '>View Works</button>
         </Link>
         </div>
         
