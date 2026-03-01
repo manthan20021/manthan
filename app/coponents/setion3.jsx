@@ -162,7 +162,7 @@ const images = [
             <span className='font-thin ml-1 text-sm text-gray-400'>Skills</span>
               </h1>
               <h2 className='text-xl text-white'>
-                What We Know
+                Expertise
               </h2>
         </div>
 
